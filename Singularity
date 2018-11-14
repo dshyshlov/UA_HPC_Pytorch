@@ -1,4 +1,4 @@
-Build: docker
+Bootstrap: docker
 From: pytorch/pytorch:latest
 
 %post
